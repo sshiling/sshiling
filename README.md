@@ -55,11 +55,7 @@
 
 <table>
   <tr>
-    <td width="180"></td>
-    <td><img width="800" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></td>
-  </tr>
-  <tr>
-    <td width="180"><strong>Core</strong></td>
+    <td width="180" valign="middle"><strong>Core</strong></td>
     <td>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />&nbsp;&nbsp;
@@ -70,28 +66,28 @@
     </td>
   </tr>
   <tr>
-    <td width="180"><strong>State & Logic</strong></td>
-    <td>
+    <td width="180" valign="middle"><strong>State & Logic</strong></td>
+    <td valign="middle">
       <img src="https://img.shields.io/badge/Pinia-FFD43B?style=flat-square&logo=pinia&logoColor=black" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/XState-2C3E50?style=flat-square&logo=xstate&logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="180"><strong>Backend</strong></td>
-    <td>
+    <td width="180" valign="middle"><strong>Backend</strong></td>
+    <td valign="middle">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="180"><strong>CMS</strong></td>
-    <td>
+    <td width="180" valign="middle"><strong>CMS</strong></td>
+    <td valign="middle">
       <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="180"><strong>Infrastructure</strong></td>
-    <td>
+    <td width="180" valign="middle"><strong>Infrastructure</strong></td>
+    <td valign="middle">
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />&nbsp;&nbsp;
@@ -99,18 +95,18 @@
     </td>
   </tr>
   <tr>
-    <td width="180"><strong>Observability</strong></td>
-    <td>
+    <td width="180" valign="middle"><strong>Observability</strong></td>
+    <td valign="middle">
       <img src="https://img.shields.io/badge/OpenTelemetry-7B61FF?style=flat-square&logo=opentelemetry&logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="180"><strong>AI Tooling</strong></td>
-    <td>
+    <td width="180" valign="middle"><strong>AI Tooling</strong></td>
+    <td valign="middle">
       <img src="https://img.shields.io/badge/Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" /><img width="800" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
     </td>
   </tr>
 </table>
