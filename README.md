@@ -48,7 +48,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sshiling&hide_border=true&background=00000000&ring=666666&fire=E8590C&currStreakLabel=666666&currStreakNum=333333&sideNums=333333&sideLabels=666666&dates=999999&stroke=e1e4e8&border_radius=0" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sshiling&show_icons=true&hide_border=true&bg_color=00000000&title_color=333333&icon_color=39D353&text_color=666666&ring_color=39D353&hide=contribs&show=reviews,prs_merged&rank_icon=github" />
 </div>
 
 <br/>
