@@ -118,7 +118,6 @@ const sergii = {
     "Agentic AI developer workflows",
     "Frontend observability & DevOps",
   ],
-  philosophy: "Build growing systems. Focus on what matters",
 };
 ```
 
