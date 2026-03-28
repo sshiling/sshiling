@@ -3,25 +3,14 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>Multi-Tenant Frontend Architecture</h3>
-      <p>Modular <code>feature → flow → tenant</code> hierarchy powering a large-scale Nuxt.js platform. Trunk-based development with observability baselines as guardrails for safe, continuous delivery.</p>
+      <h3>Agentic Developer Workflows</h3>
+      <p>Building AI-assisted development workflows with Claude Code, MCP servers, and custom skills — turning multi-step engineering tasks into reviewable, automated pipelines with built-in quality gates.</p>
       <p>
-        <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
       </p>
     </td>
-    <td width="50%">
-      <h3>Headless Nuxt Modules Library</h3>
-      <p>Reusable, infrastructure-agnostic feature modules (auth, authorization, payments, forms) powered by Pinia, XState, and dependency injection contracts. Stateful units initialized via shared context.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Pinia-FFD43B?style=flat-square&logo=pinia&logoColor=black" />
-        <img src="https://img.shields.io/badge/XState-2C3E50?style=flat-square&logo=xstate&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>Frontend Observability Sandbox</h3>
       <p>A Nuxt 4 app instrumented with OpenTelemetry for traces, metrics, and logs — exported via OTEL Collector to Grafana Cloud. A hands-on environment for learning frontend observability.</p>
@@ -31,13 +20,24 @@
         <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
-      <h3>Agentic Developer Workflows</h3>
-      <p>Building AI-assisted development workflows with Claude Code, MCP servers, and custom skills — turning multi-step engineering tasks into reviewable, automated pipelines with built-in quality gates.</p>
+      <h3>Multi-Tenant Frontend Architecture</h3>
+      <p>Modular <code>feature → flow → tenant</code> hierarchy powering a large-scale Nuxt.js platform. Trunk-based development with observability baselines as guardrails for safe, continuous delivery.</p>
       <p>
-        <img src="https://img.shields.io/badge/Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white" />
-        <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Headless Frontend Modules Library</h3>
+      <p>Reusable, infrastructure-agnostic feature modules (auth, authorization, payments, forms) powered by Pinia, XState, and dependency injection contracts. Stateful units initialized via shared context.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Pinia-FFD43B?style=flat-square&logo=pinia&logoColor=black" />
+        <img src="https://img.shields.io/badge/XState-2C3E50?style=flat-square&logo=xstate&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
       </p>
     </td>
   </tr>
