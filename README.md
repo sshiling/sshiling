@@ -48,13 +48,13 @@
 ## GitHub Stats
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sshiling&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=0" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sshiling&hide_border=true&background=00000000&ring=39D353&fire=39D353&currStreakLabel=39D353&currStreakNum=333333&sideNums=333333&sideLabels=666666&dates=999999&stroke=e1e4e8&border_radius=0" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sshiling&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sshiling&hide_border=true&bg_color=00000000&color=333333&line=39D353&point=39D353&area=true&area_color=39D35340&custom_title=Contributions" />
 </div>
 
 <br/>
