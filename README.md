@@ -1,89 +1,3 @@
-<div align="center">
-
-<!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hey%2C+I'm+Sergii+%F0%9F%91%8B;Frontend+Engineer+%C2%B7+Systems+Thinker+%C2%B7+Kyiv+%F0%9F%87%BA%F0%9F%87%A6" alt="Typing SVG" />
-
-<br/>
-
-<p>
-  <em>I design modular frontend systems that scale — from multi-tenant architectures to developer tooling.<br/>
-  Currently obsessed with agentic AI workflows, observability, and making complexity disappear.</em>
-</p>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shilingov)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergii.shylingov@lotusflare.com)
-
-</div>
-
-<br/>
-
-## `$ whoami`
-
-```typescript
-const sergii = {
-  role: "Frontend Engineer",
-  company: "LotusFlare",
-  location: "Kyiv, Ukraine",
-  focus: [
-    "Multi-tenant application architecture",
-    "Modular frontend systems (Nuxt/Vue/TypeScript)",
-    "Agentic AI developer workflows",
-    "Frontend observability & DevOps",
-  ],
-  philosophy: "Build growing systems. Focus on what matters.",
-};
-```
-
-<br/>
-
-## Tech Stack
-
-<div align="center">
-
-#### Core
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-#### State & Logic
-
-![Pinia](https://img.shields.io/badge/Pinia-FFD43B?style=flat-square&logo=pinia&logoColor=black)
-![XState](https://img.shields.io/badge/XState-2C3E50?style=flat-square&logo=xstate&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-
-#### Backend & CMS
-
-![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-#### Infrastructure
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-#### Observability
-
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7B61FF?style=flat-square&logo=opentelemetry&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-
-#### AI Tooling
-
-![Claude](https://img.shields.io/badge/Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
-
-</div>
-
-<br/>
-
 ## What I'm Building
 
 <table>
@@ -134,22 +48,84 @@ const sergii = {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sshiling&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sshiling&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </div>
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sshiling&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sshiling&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" />
 </div>
 
 <br/>
+
+## Tech Stack
+
+<div align="center">
+
+#### Core
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### State & Logic
+
+![Pinia](https://img.shields.io/badge/Pinia-FFD43B?style=flat-square&logo=pinia&logoColor=black)
+![XState](https://img.shields.io/badge/XState-2C3E50?style=flat-square&logo=xstate&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+#### Backend & CMS
+
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+#### Infrastructure
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+#### Observability
+
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7B61FF?style=flat-square&logo=opentelemetry&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+
+#### AI Tooling
+
+![Claude](https://img.shields.io/badge/Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
+
+</div>
+
+<br/>
+
+## `$ whoami`
+
+```typescript
+const sergii = {
+  role: "Frontend Engineer",
+  company: "LotusFlare",
+  location: "Kyiv, Ukraine",
+  focus: [
+    "Multi-tenant application architecture",
+    "Modular frontend systems (Nuxt/Vue/TypeScript)",
+    "Agentic AI developer workflows",
+    "Frontend observability & DevOps",
+  ],
+  philosophy: "Build growing systems. Focus on what matters",
+};
+```
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sshiling&style=flat-square&color=58a6ff" alt="Profile views" />
   <br/><br/>
-  <em>"Build growing systems. Focus on what matters."</em>
+  <em>"Build growing systems. Focus on what matters"</em>
 </div>
