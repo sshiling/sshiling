@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hey%2C+I'm+Sergii+%F0%9F%91%8B;Frontend+Architect+%C2%B7+Systems+Thinker+%C2%B7+Kyiv+%F0%9F%87%BA%F0%9F%87%A6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hey%2C+I'm+Sergii+%F0%9F%91%8B;Frontend+Engineer+%C2%B7+Systems+Thinker+%C2%B7+Kyiv+%F0%9F%87%BA%F0%9F%87%A6" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,7 @@
 
 ```typescript
 const sergii = {
-  role: "Frontend Architect",
+  role: "Frontend Engineer",
   company: "LotusFlare",
   location: "Kyiv, Ukraine",
   focus: [
