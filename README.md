@@ -71,6 +71,18 @@
     </td>
   </tr>
   <tr>
+    <td width="180"><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="180"><strong>CMS</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
     <td width="180"><strong>Infrastructure</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;
@@ -92,18 +104,6 @@
     <td>
       <img src="https://img.shields.io/badge/Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="180"><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="180"><strong>CMS</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" />
     </td>
   </tr>
   <tr>
