@@ -89,8 +89,8 @@ const sergii = {
 <table>
   <tr>
     <td width="50%">
-      <h3>Multi-Tenant Architecture Migration</h3>
-      <p>Splitting a large-scale Nuxt.js monorepo into a <code>feature → flow → tenant-config</code> module hierarchy using a strangler fig strategy. Trunk-based development with observability baselines as guardrails.</p>
+      <h3>Multi-Tenant Frontend Architecture</h3>
+      <p>Modular <code>feature → flow → tenant</code> hierarchy powering a large-scale Nuxt.js platform. Trunk-based development with observability baselines as guardrails.</p>
       <p>
         <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
