@@ -123,7 +123,7 @@
 
 ```typescript
 const sergii = {
-  role: "Frontend Engineer",
+  role: "Senior Frontend Engineer",
   company: "LotusFlare",
   location: "Kyiv, Ukraine",
   focus: [
