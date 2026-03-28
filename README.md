@@ -128,7 +128,7 @@ const sergii = {
   location: "Kyiv, Ukraine",
   focus: [
     "Multi-tenant application architecture",
-    "Modular frontend systems (Nuxt/Vue/TypeScript)",
+    "Modular frontend systems (Vue/Nuxt/TypeScript)",
     "Agentic AI developer workflows",
     "Frontend observability & DevOps",
   ],
