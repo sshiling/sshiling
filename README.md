@@ -45,20 +45,6 @@
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=sshiling&hide_border=true&background=00000000&ring=666666&fire=E8590C&currStreakLabel=666666&currStreakNum=333333&sideNums=333333&sideLabels=666666&dates=999999&stroke=e1e4e8&border_radius=0" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sshiling&hide_border=true&bg_color=00000000&color=333333&line=39D353&point=39D353&area=true&area_color=39D35340&custom_title=Contributions" />
-</div>
-
-<br/>
-
 ## Tech Stack
 
 <div align="center">
