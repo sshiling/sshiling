@@ -55,6 +55,9 @@
 
 <table>
   <tr>
+    <td colspan="2"><img width="1000" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></td>
+  </tr>
+  <tr>
     <td width="180"><strong>Core</strong></td>
     <td>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />&nbsp;&nbsp;
