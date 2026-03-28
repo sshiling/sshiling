@@ -109,6 +109,9 @@
       <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2"><img width="1000" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></td>
+  </tr>
 </table>
 
 <br/>
