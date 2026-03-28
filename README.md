@@ -53,7 +53,8 @@
 
 ## Tech Stack
 
-<table width="100%">
+<table>
+  <tr><td colspan="2"><img width="1000" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></td></tr>
   <tr>
     <td width="180"><strong>Core</strong></td>
     <td>
@@ -74,10 +75,15 @@
     </td>
   </tr>
   <tr>
-    <td width="180"><strong>Backend & CMS</strong></td>
+    <td width="180"><strong>Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="180"><strong>CMS</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" />
     </td>
   </tr>
   <tr>
