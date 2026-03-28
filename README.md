@@ -45,12 +45,6 @@
 
 <br/>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sshiling&hide_border=true&bg_color=00000000&color=333333&line=39D353&point=39D353&area=true&area_color=39D35340&custom_title=Contributions" />
-</div>
-
-<br/>
-
 ## Tech Stack
 
 <table>
@@ -116,6 +110,12 @@
     <td colspan="2"><img width="1000" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></td>
   </tr>
 </table>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sshiling&hide_border=true&bg_color=00000000&color=333333&line=39D353&point=39D353&area=true&area_color=39D35340&custom_title=Contributions" />
+</div>
 
 <br/>
 
