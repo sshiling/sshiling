@@ -32,7 +32,7 @@ const sergii = {
     "Agentic AI developer workflows",
     "Frontend observability & DevOps",
   ],
-  philosophy: "Build systems where you review, not execute.",
+  philosophy: "Build growing systems. Focus on what matters.",
 };
 ```
 
@@ -134,13 +134,6 @@ const sergii = {
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sshiling&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshiling&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sshiling&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </div>
 
@@ -158,5 +151,5 @@ const sergii = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sshiling&style=flat-square&color=58a6ff" alt="Profile views" />
   <br/><br/>
-  <em>"Build systems where you review, not execute."</em>
+  <em>"Build growing systems. Focus on what matters."</em>
 </div>
