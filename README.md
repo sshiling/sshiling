@@ -33,7 +33,7 @@
     </td>
     <td width="50%">
       <h3>Headless Frontend Modules Library</h3>
-      <p>Reusable, infrastructure-agnostic feature modules (auth, authorization, payments, forms) powered by Pinia, XState, and dependency injection contracts. Stateful units initialized via shared context.</p>
+      <p>Reusable, infrastructure-agnostic feature modules (auth, onboarding, payments, dashboard) powered by Pinia, XState, and dependency injection contracts. Stateful units initialized via shared context.</p>
       <p>
         <img src="https://img.shields.io/badge/Pinia-FFD43B?style=flat-square&logo=pinia&logoColor=black" />
         <img src="https://img.shields.io/badge/XState-2C3E50?style=flat-square&logo=xstate&logoColor=white" />
