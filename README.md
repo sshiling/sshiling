@@ -4,7 +4,7 @@
   <tr>
     <td width="50%">
       <h3>Multi-Tenant Frontend Architecture</h3>
-      <p>Modular <code>feature → flow → tenant</code> hierarchy powering a large-scale Nuxt.js platform. Trunk-based development with observability baselines as guardrails.</p>
+      <p>Modular <code>feature → flow → tenant</code> hierarchy powering a large-scale Nuxt.js platform. Trunk-based development with observability baselines as guardrails for safe, continuous delivery.</p>
       <p>
         <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -33,7 +33,7 @@
     </td>
     <td width="50%">
       <h3>Agentic Developer Workflows</h3>
-      <p>Building AI-assisted development workflows with Claude Code, MCP servers, and custom skills — turning multi-step engineering tasks into reviewable, automated pipelines.</p>
+      <p>Building AI-assisted development workflows with Claude Code, MCP servers, and custom skills — turning multi-step engineering tasks into reviewable, automated pipelines with built-in quality gates.</p>
       <p>
         <img src="https://img.shields.io/badge/Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white" />
         <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
