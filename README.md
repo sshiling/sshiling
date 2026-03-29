@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>Agentic Developer Workflows</h3>
+      <h3>Agentic AI Developer Workflows</h3>
       <p>Building AI-assisted development workflows with Claude Code, MCP servers, and custom skills — turning multi-step engineering tasks into reviewable, automated pipelines with built-in quality gates.</p>
       <p>
         <img src="https://img.shields.io/badge/Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white" />
@@ -32,7 +32,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3>Headless Frontend Modules Library</h3>
+      <h3>Headless Frontend Modules</h3>
       <p>Reusable, infrastructure-agnostic feature modules (auth, onboarding, payments, dashboard) powered by Pinia, XState, and dependency injection contracts. Stateful units initialized via shared context.</p>
       <p>
         <img src="https://img.shields.io/badge/Pinia-FFD43B?style=flat-square&logo=pinia&logoColor=black" />
@@ -129,7 +129,7 @@ const sergii = {
   focus: [
     "Agentic AI developer workflows",
     "Frontend observability & DevOps",
-    "Multi-tenant application architecture",
+    "Multi-tenant frontend architecture",
     "Modular frontend systems. Vue/Nuxt/TypeScript",
   ],
 };
