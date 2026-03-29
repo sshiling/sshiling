@@ -127,10 +127,10 @@ const sergii = {
   company: "LotusFlare",
   location: "Kyiv, Ukraine",
   focus: [
-    "Multi-tenant application architecture",
-    "Modular frontend systems (Vue/Nuxt/TypeScript)",
     "Agentic AI developer workflows",
     "Frontend observability & DevOps",
+    "Multi-tenant application architecture",
+    "Modular frontend systems. Vue/Nuxt/TypeScript",
   ],
 };
 ```
